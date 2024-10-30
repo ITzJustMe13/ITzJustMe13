@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building projects for University<br>🤝 I’m looking for help with everything related to devOps and backend i want to be better<br>🌱 I’m currently learning Informatics Engeneering on PPorto ESTG<br>⚡ I just want to be a good professional, i wanna learn and be better in something that i love
+🔭 I’m currently working on building projects for University<br>🤝 I’m looking for help with everything related to devOps and backend i want to be better<br>🌱 I’m currently learning Informatics Engineering on PPorto ESTG<br>⚡ I just want to be a good professional, i wanna learn and be better in something that i love
 
 
 ## 🌐 Socials:
