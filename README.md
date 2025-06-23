@@ -12,6 +12,8 @@ Currently finishing my degree of Informatics Engineering in ESTG PPorto
 * 🧠  I'm learning besides my college degree: GO, DevOps, Kubernets, Terraform, Vagrant, Robot Framework, QA etc...
 * ⚡  Still trying to find my path in these industry and I have a CTESP degree in Cibersecurity
 
+📄 [CV](https://github.com/ITzJustMe13/CV_Rafael.pdf)
+
 <a href="https://www.github.com/ITzJustMe13" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ITzJustMe13?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
