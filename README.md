@@ -4,15 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps and BackEnd Engineer Wannabe
 -----------------------------------
 
-Currently finishing my degree of Informatics Engineering in ESTG PPorto
+Currently finishing my Masters degree of Informatics Engineering in ESTG PPorto
 
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [rafael.jrs@outlook.pt](mailto:rafael.jrs@outlook.pt)
 * 🚀  I'm currently working on [School Projects](http://www.estg.ipp.pt/)
 * 🧠  I'm learning besides my college degree: GO, DevOps, Kubernets, Terraform, Vagrant, Robot Framework, QA etc...
-* ⚡  Still trying to find my path in these industry and I have a CTESP degree in Cibersecurity
-
-📄 [CV](https://github.com/ITzJustMe13/CV_Rafael.pdf)
+* ⚡  I have a CTESP degree in Cibersecurity and a degree in Informatics Engineering
 
 <a href="https://www.github.com/ITzJustMe13" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ITzJustMe13?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
